@@ -1,0 +1,12 @@
+C:\Users\Saman\source\repos\MasterBlogger\MB.Application.Contracs\bin\Debug\net5.0\MB.Application.Contracs.deps.json
+C:\Users\Saman\source\repos\MasterBlogger\MB.Application.Contracs\bin\Debug\net5.0\MB.Application.Contracs.dll
+C:\Users\Saman\source\repos\MasterBlogger\MB.Application.Contracs\bin\Debug\net5.0\MB.Application.Contracs.pdb
+C:\Users\Saman\source\repos\MasterBlogger\MB.Application.Contracs\obj\Debug\net5.0\MB.Application.Contracs.csproj.AssemblyReference.cache
+C:\Users\Saman\source\repos\MasterBlogger\MB.Application.Contracs\obj\Debug\net5.0\MB.Application.Contracs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saman\source\repos\MasterBlogger\MB.Application.Contracs\obj\Debug\net5.0\MB.Application.Contracs.AssemblyInfoInputs.cache
+C:\Users\Saman\source\repos\MasterBlogger\MB.Application.Contracs\obj\Debug\net5.0\MB.Application.Contracs.AssemblyInfo.cs
+C:\Users\Saman\source\repos\MasterBlogger\MB.Application.Contracs\obj\Debug\net5.0\MB.Application.Contracs.csproj.CoreCompileInputs.cache
+C:\Users\Saman\source\repos\MasterBlogger\MB.Application.Contracs\obj\Debug\net5.0\MB.Application.Contracs.dll
+C:\Users\Saman\source\repos\MasterBlogger\MB.Application.Contracs\obj\Debug\net5.0\refint\MB.Application.Contracs.dll
+C:\Users\Saman\source\repos\MasterBlogger\MB.Application.Contracs\obj\Debug\net5.0\MB.Application.Contracs.pdb
+C:\Users\Saman\source\repos\MasterBlogger\MB.Application.Contracs\obj\Debug\net5.0\ref\MB.Application.Contracs.dll

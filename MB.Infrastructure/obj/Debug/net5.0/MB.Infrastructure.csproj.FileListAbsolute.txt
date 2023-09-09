@@ -1,0 +1,12 @@
+C:\Users\Saman\source\repos\MasterBlogger\MB.Infrastructure\bin\Debug\net5.0\MB.Infrastructure.deps.json
+C:\Users\Saman\source\repos\MasterBlogger\MB.Infrastructure\bin\Debug\net5.0\MB.Infrastructure.dll
+C:\Users\Saman\source\repos\MasterBlogger\MB.Infrastructure\bin\Debug\net5.0\MB.Infrastructure.pdb
+C:\Users\Saman\source\repos\MasterBlogger\MB.Infrastructure\obj\Debug\net5.0\MB.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Saman\source\repos\MasterBlogger\MB.Infrastructure\obj\Debug\net5.0\MB.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saman\source\repos\MasterBlogger\MB.Infrastructure\obj\Debug\net5.0\MB.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Saman\source\repos\MasterBlogger\MB.Infrastructure\obj\Debug\net5.0\MB.Infrastructure.AssemblyInfo.cs
+C:\Users\Saman\source\repos\MasterBlogger\MB.Infrastructure\obj\Debug\net5.0\MB.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Saman\source\repos\MasterBlogger\MB.Infrastructure\obj\Debug\net5.0\MB.Infrastructure.dll
+C:\Users\Saman\source\repos\MasterBlogger\MB.Infrastructure\obj\Debug\net5.0\refint\MB.Infrastructure.dll
+C:\Users\Saman\source\repos\MasterBlogger\MB.Infrastructure\obj\Debug\net5.0\MB.Infrastructure.pdb
+C:\Users\Saman\source\repos\MasterBlogger\MB.Infrastructure\obj\Debug\net5.0\ref\MB.Infrastructure.dll
