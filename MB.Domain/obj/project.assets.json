@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "MB.Application.Contracs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MB.Application.Contracs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MB.Application.Contracs.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MB.Application.Contracs/1.0.0": {
+      "type": "project",
+      "path": "../MB.Application.Contracs/MB.Application.Contracs.csproj",
+      "msbuildProject": "../MB.Application.Contracs/MB.Application.Contracs.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "MB.Application.Contracs >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Saman\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Saman\\source\\repos\\MasterBlogger\\MB.Application.Contracs\\MB.Application.Contracs.csproj": {
+              "projectPath": "C:\\Users\\Saman\\source\\repos\\MasterBlogger\\MB.Application.Contracs\\MB.Application.Contracs.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1764,9 +1764,22 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "MB.Application.Contracs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MB.Application.Contracs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MB.Application.Contracs.dll": {}
+        }
+      },
       "MB.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MB.Application.Contracs": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MB.Domain.dll": {}
         },
@@ -6041,6 +6054,11 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "MB.Application.Contracs/1.0.0": {
+      "type": "project",
+      "path": "../MB.Application.Contracs/MB.Application.Contracs.csproj",
+      "msbuildProject": "../MB.Application.Contracs/MB.Application.Contracs.csproj"
     },
     "MB.Domain/1.0.0": {
       "type": "project",
